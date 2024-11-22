@@ -1,5 +1,5 @@
-title: INS
-description: Indoor Neural SLAM Dataset
+title: NES
+description: Neural SLAM Dataset
 
 theme: null
 
@@ -30,4 +30,4 @@ exclude:
   - webpack.config.js
   - jekyll-rtd-theme.gemspec
 
-repository: ins-dataset.github.io/ins.github.io
+repository: dtc111111.github.io/NES.github.io/
