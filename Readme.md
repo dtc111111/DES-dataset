@@ -25,7 +25,7 @@ The dataset is collected over large-scale indoor areas, featuring:
   </p>
 * High resolution large scale survey-grade outdoor prior maps
   <p align="center">
-    <img src="images/gtpreview/ntu_compressed.gif" width="90%"/>
+    <img src="images/gtpreview/ntu_compressed.gif" width="60%"/>
   </p>
 * Visualization of NES dataset.
 <p align="center">
