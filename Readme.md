@@ -32,7 +32,7 @@ The dataset is collected over large-scale indoor areas, featuring:
     <img src="images/figure2.png" alt="maps_and_elevation" width="90%"/>
 </p>
 <p align="center">
-    <img src="images/figure2.png" alt="maps_and_elevation" width="90%"/>
+    <img src="images/figure3.png" alt="maps_and_elevation" width="90%"/>
 </p>
 # Notes:
 If you have some inquiry, please raise an [issue](https://github.com/dtc111111/NES.github.io/issues) on github.
