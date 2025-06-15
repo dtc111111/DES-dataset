@@ -2,7 +2,7 @@
     <img src="images/figure1-1.png" alt="maps_and_elevation" width="85%"/>
 </p>
 
-# [MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Implicit Neural Scene Representation (Neural SLAM Dataset)](https://dtc111111.github.io/NES.github.io/)
+# [MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Implicit Neural Scene Representation (Neural Dense SLAM Dataset)](https://dtc111111.github.io/DES.github.io/)
 
 The dataset is collected over large-scale indoor areas, featuring:
 
@@ -27,7 +27,7 @@ The dataset is collected over large-scale indoor areas, featuring:
   <p align="center">
     <img src="images/gtpreview/ntu_compressed.gif" width="60%"/>
   </p>
-* Visualization of NES dataset.
+* Visualization of DES dataset.
 <p align="center">
     <img src="images/figure2.png" alt="maps_and_elevation" width="90%"/>
 </p>
@@ -35,7 +35,7 @@ The dataset is collected over large-scale indoor areas, featuring:
     <img src="images/figure3.png" alt="maps_and_elevation" width="90%"/>
 </p>
 # Notes:
-If you have some inquiry, please raise an [issue](https://github.com/dtc111111/NES.github.io/issues) on github.
+If you have some inquiry, please raise an [issue](https://github.com/dtc111111/DES.github.io/issues) on github.
 
 # Licence
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) and is intended for non-commercial academic use.
