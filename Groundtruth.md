@@ -22,7 +22,14 @@ All ground truths ultimately come from the high accuracy survey-grade prior maps
     <th> <a href=""> Download</a></th>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <th><img src="images/gtpreview/ntu_compressed.gif"  title="NTU_Campus" alt="NTU_Campus"  width="50%">  </th>
+  </tr>
+  <tr>
+    <th> <a href=""> Download</a></th>
+  </tr>
+</table>
 
 
 <!-- <a href=""> <img src="images/ntu.gif" title="ntu_priormap" alt="ntu_priormap"></a> -->
