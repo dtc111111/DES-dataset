@@ -2,7 +2,11 @@
     <img src="images/figure1-1.png" alt="maps_and_elevation" width="85%"/>
 </p>
 
+<<<<<<< HEAD
 # [MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Implicit Neural Scene Representation (Neural SLAM Dataset)](https://dtc111111.github.io/DES.github.io/)
+=======
+# [MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Implicit Neural Scene Representation (Neural Dense SLAM Dataset)](https://dtc111111.github.io/DES.github.io/)
+>>>>>>> 2cba58366781079d30a4bac926b6e364a0c12064
 
 The dataset is collected over large-scale indoor areas, featuring:
 
