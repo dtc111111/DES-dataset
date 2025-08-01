@@ -22,6 +22,7 @@ All ground truths ultimately come from the high accuracy survey-grade prior maps
     <th> <a href=""> Pointcloud Download</a> <a href=""> Mesh Download</a> </th>
   </tr>
 </table>
+
 <table>
   <tr>
     <th><img src="images/gtpreview/ntu_compressed.gif"  title="NTU_Carpark" alt="NTU_Carpark"  width="100%">  </th>
